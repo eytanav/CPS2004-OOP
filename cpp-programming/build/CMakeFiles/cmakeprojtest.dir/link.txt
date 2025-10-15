@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/cmakeprojtest.dir/main.cpp.o -o cmakeprojtest 

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/eytan/uni-coding/CPS2004-OOP/CPS2004-OOP/cpp-programming/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/cmakeprojtest.dir/main.cpp.o -c /home/eytan/uni-coding/CPS2004-OOP/CPS2004-OOP/cpp-programming/main.cpp",
-  "file": "/home/eytan/uni-coding/CPS2004-OOP/CPS2004-OOP/cpp-programming/main.cpp",
-  "output": "CMakeFiles/cmakeprojtest.dir/main.cpp.o"
-}
-]
